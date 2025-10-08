@@ -1,4 +1,5 @@
 #include <string>
+#include "StackType.h"
 #include "QueType.h"
 
 
